@@ -1,2 +1,2 @@
-# ThinkScript
+## ThinkScript Web
 
